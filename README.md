@@ -10,17 +10,16 @@ https://kamalchafik.github.io/
 
 ### Know 
 
-| Languages               | Framworks                 |  
-|-------------------------|:-------------------------:|
-| TypeScript/JavaScript   | TypeScript/JavaScript     |
-| Java                    | Java                      |
-| Python                  | Python                    | 
-| HTMLCSS                 | HTMLCSS                   | 
+| Languages               | Framworks                 |  Tools                    |  
+|-------------------------|:-------------------------:|:-------------------------:|
+| TypeScript              | NodeJS                    | Bulma                     |
+| JavaScript              | ExpressJS                 | Terminal (Windows/Mac)    |
+| Java                    | VueJS                     | Linux                     |
+| Python                  | PugJS                     | VSC                       | 
+| HTML/CSS                | Bootstrap                 | IntelliJ                  | 
+| SQL                     | Jest & Junit              |                           | 
 
 
 ### Learning
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+
+
