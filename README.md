@@ -1,9 +1,9 @@
-<cetner>### Hi there 👋 </cetner>
+<center>### Hi there 👋 </center>
 
-<cetner>## Stats </cetner>
+<center>## Stats </center>
 
-<cetner>![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalchafik&theme=vue-dark&show_icons=true)</cetner>
+<center>![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalchafik&theme=vue-dark&show_icons=true)</center>
 
-<cetner>## Streak </cetner>
+<center>## Streak </center>
 
-<cetner>[![GitHub Streak](https://streak-stats.demolab.com?user=kamalchafik&theme=vue-dark)](https://git.io/streak-stats)</cetner>
+<center>[![GitHub Streak](https://streak-stats.demolab.com?user=kamalchafik&theme=vue-dark)](https://git.io/streak-stats)</center>
