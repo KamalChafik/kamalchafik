@@ -10,12 +10,12 @@ https://kamalchafik.github.io/
 
 ### Know 
 
-| Languages               | | Framworks               |  
-|-------------------------| |-------------------------|
-| TypeScript/JavaScript   | | TypeScript/JavaScript   |
-| Java                    | | Java                    |
-| Python                  | | Python                  | 
-| HTMLCSS                 | | HTMLCSS                 | 
+| Languages               | Framworks                 |  
+|-------------------------|:-------------------------:|
+| TypeScript/JavaScript   | TypeScript/JavaScript     |
+| Java                    | Java                      |
+| Python                  | Python                    | 
+| HTMLCSS                 | HTMLCSS                   | 
 
 
 ### Learning
