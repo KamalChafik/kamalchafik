@@ -8,7 +8,7 @@ https://kamalchafik.github.io/
 
 ## 👨‍💻 Languages and Tools:
 
-### Know 
+### :white_check_mark: So far I know ...
 
 | Languages               | Framworks                 |  Tools                    |  
 |-------------------------|:-------------------------:|:-------------------------:|
@@ -20,7 +20,7 @@ https://kamalchafik.github.io/
 | SQL                     | Jest & Junit              | Git/Github                | 
 
 
-### Learning
+### :clock1: I am currently learning ...
 
 | Languages               | Framworks                 |  Tools                    |  
 |-------------------------|:-------------------------:|:-------------------------:|
