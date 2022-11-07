@@ -8,6 +8,10 @@ I'm Kamal come check my [website](https://kamalchafik.github.io/) !
 
 ## 👨‍💻 Languages and Tools:
 
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
+
 ### :white_check_mark: So far I know ...
 
 | Languages               | Framworks                 |  Tools                    |  
@@ -19,6 +23,8 @@ I'm Kamal come check my [website](https://kamalchafik.github.io/) !
 | HTML/CSS                | Bootstrap                 | IntelliJ                  | 
 | SQL                     | Jest & Junit              | Git/Github                | 
 
+  </td>
+  <td width="50%" valign="top">
 
 ### :clock1: I am currently learning ...
 
@@ -26,6 +32,10 @@ I'm Kamal come check my [website](https://kamalchafik.github.io/) !
 |-------------------------|:-------------------------:|:-------------------------:|
 | C#                      | React                     | Docker                    |
 | C                       | NextJS                    |                           |
+    
+   </td>
+  </tr>
+</table>
 
 ## You've come this far, have a laugh
 
