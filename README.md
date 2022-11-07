@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Kamal come check my website : https://kamalchafik.github.io/
+I'm Kamal come check my [website](https://kamalchafik.github.io/) !
 
 ## :pushpin: Stats & Streaks
 <img align="center" src="https://streak-stats.demolab.com?user=kamalchafik&theme=vue-dark&count_private=true" />
@@ -26,3 +26,8 @@ I'm Kamal come check my website : https://kamalchafik.github.io/
 |-------------------------|:-------------------------:|:-------------------------:|
 | C#                      | React                     | Docker                    |
 | C                       | NextJS                    |                           |
+
+## You've come this far, have a laugh
+
+> Wife says to her programmer husband, "Go to the store and buy a loaf of bread. If they have eggs, buy a dozen."  
+> Husband returns with 12 loaves of bread.
