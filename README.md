@@ -17,9 +17,12 @@ https://kamalchafik.github.io/
 | Java                    | VueJS                     | Linux                     |
 | Python                  | PugJS                     | VSC                       | 
 | HTML/CSS                | Bootstrap                 | IntelliJ                  | 
-| SQL                     | Jest & Junit              |                           | 
+| SQL                     | Jest & Junit              | Git/Github                | 
 
 
 ### Learning
 
-
+| Languages               | Framworks                 |  Tools                    |  
+|-------------------------|:-------------------------:|:-------------------------:|
+| C#                      | React                     | Docker                    |
+| C                       | NextJS                    |                           |
