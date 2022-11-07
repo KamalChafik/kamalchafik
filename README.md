@@ -3,12 +3,24 @@
 I'm Kamal come check my [website](https://kamalchafik.github.io/) !
 
 ## :pushpin: Stats & Streaks
+
+<table style="border: none !important" >
+  <tr>
+  <td width="50%" valign="top">
+    
 <img align="center" src="https://streak-stats.demolab.com?user=kamalchafik&theme=vue-dark&count_private=true" />
+  </td>
+  <td width="50%" valign="top">
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalchafik&theme=vue-dark&show_icons=true&count_private=true&hide=issues,contribs" />
+
+  </td>
+  </tr>
+</table>
 
 ## 👨‍💻 Languages and Tools:
 
-<table style="border: none">
+<table style="border: none !important" >
   <tr>
   <td width="50%" valign="top">
 
@@ -17,7 +29,7 @@ I'm Kamal come check my [website](https://kamalchafik.github.io/) !
 | Languages               | Framworks                 |  Tools                    |  
 |-------------------------|:-------------------------:|:-------------------------:|
 | TypeScript              | NodeJS                    | Bulma                     |
-| JavaScript              | ExpressJS                 | Terminal (Windows/Mac)    |
+| JavaScript              | ExpressJS                 | Terminal                  |
 | Java                    | VueJS                     | Linux                     |
 | Python                  | PugJS                     | VSC                       | 
 | HTML/CSS                | Bootstrap                 | IntelliJ                  | 
