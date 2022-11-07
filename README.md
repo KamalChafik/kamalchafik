@@ -9,3 +9,6 @@
 ## Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalchafik&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stat](https://streak-stats.demolab.com?user=kamalchafik&theme=vue-dark&count_private=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalchafik&theme=vue-dark&count_private=true" />
