@@ -5,7 +5,7 @@ come check my [website](https://kamalchafik.github.io/) for more infos!
 
 ## :pushpin: Stats & Streaks
 
-<table style="border: none !important" >
+<table style="border: hidden !important" >
   <tr>
   <td width="50%" valign="top">
     
@@ -21,7 +21,7 @@ come check my [website](https://kamalchafik.github.io/) for more infos!
 
 ## 👨‍💻 Languages and Tools:
 
-<table style="border: none !important" >
+<table style="border: hidden !important" >
   <tr>
   <td width="50%" valign="top">
 
