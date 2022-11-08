@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm Kamal come check my [website](https://kamalchafik.github.io/) !
+I'm Kamal, a Business Analyst for years and recently a Software Engineer Undergrad,  
+come check my [website](https://kamalchafik.github.io/) for more infos!
 
 ## :pushpin: Stats & Streaks
 
