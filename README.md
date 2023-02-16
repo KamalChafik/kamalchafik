@@ -35,6 +35,8 @@ come check my [website](https://kamalchafik.github.io/) for more infos!
 | Python                  | PugJS                     | VSC                       | 
 | HTML/CSS                | Bootstrap                 | IntelliJ                  | 
 | SQL                     | Jest & Junit              | Git/Github                | 
+|                         | Spring                    | Axure RP                  | 
+|                         | JDjango                   |                           | 
 
   </td>
   <td width="50%" valign="top">
