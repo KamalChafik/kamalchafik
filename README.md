@@ -36,7 +36,7 @@ come check my [website](https://kamalchafik.github.io/) for more infos!
 | HTML/CSS                | Bootstrap                 | IntelliJ                  | 
 | SQL                     | Jest & Junit              | Git/Github                | 
 |                         | Spring                    | Axure RP                  | 
-|                         | JDjango                   |                           | 
+|                         | Django                    |                           | 
 
   </td>
   <td width="50%" valign="top">
