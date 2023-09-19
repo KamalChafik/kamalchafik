@@ -29,14 +29,16 @@ come check my [website](https://kamalchafik.github.io/) for more infos!
 
 | Languages               | Framworks                 |  Tools                    |  
 |-------------------------|:-------------------------:|:-------------------------:|
-| TypeScript              | NodeJS                    | Bulma                     |
+| TypeScript              | Bulma                     | Axure RP                  |
 | JavaScript              | ExpressJS                 | Terminal                  |
 | Java                    | VueJS                     | Linux                     |
 | Python                  | PugJS                     | VSC                       | 
 | HTML/CSS                | Bootstrap                 | IntelliJ                  | 
 | SQL                     | Jest & Junit              | Git/Github                | 
-|                         | Spring                    | Axure RP                  | 
+| VBA                     | Spring                    |                           | 
 |                         | Django                    |                           | 
+|                         | React                     |                           | 
+|                         | Tailwind                  |                           | 
 
   </td>
   <td width="50%" valign="top">
@@ -45,8 +47,8 @@ come check my [website](https://kamalchafik.github.io/) for more infos!
 
 | Languages               | Framworks                 |  Tools                    |  
 |-------------------------|:-------------------------:|:-------------------------:|
-| C#                      | React                     | Docker                    |
-| C                       | NextJS                    |                           |
+| C#                      | .NET                      |                           |
+|                         | NextJS                    |                           |
     
    </td>
   </tr>
