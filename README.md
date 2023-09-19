@@ -3,22 +3,6 @@
 I'm Kamal, a Business Analyst for years and recently a Software Engineer Undergrad,  
 come check my [website](https://kamalchafik.github.io/) for more infos!
 
-## :pushpin: Stats & Streaks
-
-<table style="border: hidden !important" >
-  <tr>
-  <td width="50%" valign="top">
-    
-<img align="center" src="https://streak-stats.demolab.com?user=kamalchafik&theme=vue-dark&count_private=true" />
-  </td>
-  <td width="50%" valign="top">
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalchafik&theme=vue-dark&show_icons=true&count_private=true&hide=issues,contribs" />
-
-  </td>
-  </tr>
-</table>
-
 ## 👨‍💻 Languages and Tools:
 
 <table style="border: hidden !important" >
