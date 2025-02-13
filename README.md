@@ -27,13 +27,6 @@ come check my [website](https://kamalchafik.github.io/) for more infos!
   </td>
   <td width="50%" valign="top">
 
-### :clock1: I am currently learning ...
-
-| Languages               | Framworks                 |  Tools                    |  
-|-------------------------|:-------------------------:|:-------------------------:|
-| C#                      | .NET                      |                           |
-|                         | NextJS                    |                           |
-    
    </td>
   </tr>
 </table>
