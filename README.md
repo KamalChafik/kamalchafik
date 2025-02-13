@@ -24,10 +24,6 @@ come check my [website](https://kamalchafik.github.io/) for more infos!
 |                         | React                     |                           | 
 |                         | Tailwind                  |                           | 
 
-  </td>
-  <td width="50%" valign="top">
-
-   </td>
   </tr>
 </table>
 
