@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Kamal, a Business Analyst for years and recently a Software Engineer Undergrad,  
-come check my [website](https://kamalchafik.github.io/) for more infos!
+come check my [website](https://resume.kamalchafik.ca/) for more infos!
 
 ## You've come this far, have a laugh
 
